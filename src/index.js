@@ -4,7 +4,7 @@ import "./index.css";
 import App from "./App";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
-  <React.StrictMode basename="/AirCondShop">
+  <React.StrictMode basename="/AirFresh">
     <App />
   </React.StrictMode>
 );
